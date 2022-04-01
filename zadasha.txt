@@ -1,0 +1,26 @@
+# kontrol
+# def kart(namber_kart):
+#         karta=str(namber_kart)
+#         print('**** **** **** '+karta[-4::1])
+# kart(123456789123)
+
+# def polindrom(slovo):
+#     if len(slovo)!=1:
+#         if slovo[0: 1:]==slovo[-1: :] :
+#             return polindrom(slovo[1:-1:])
+#
+#         else:
+#             print('slovo no polindrom')
+#     else:
+#         print('slovo.polindrom')
+# s='serhes'
+# polindrom(s)
+# print(s[0:1:])
+
+# class Tomato:
+#     states={1:'grin',2:'yelou',3:'rad'}
+#     def __init__(self,_index,_states=self.states[1]):
+#         self._index=_index
+#         self._states=states[1]
+# 
+# f=Tomato(2)
